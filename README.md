@@ -2,6 +2,7 @@
 
 ## Name Group: 
 
+<img src=“https://github.com/Davi1990/NMA_project/blob/master/Logo.png”>
 
 
 **Dependencies**   
