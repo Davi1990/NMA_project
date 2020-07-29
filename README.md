@@ -1,5 +1,7 @@
 # NMA_project
 
+This repo was built on the occasion of the NeuroMatch Academy 2020. Me and my group were working with the Human Connectome Project(HCP) database which have resting-state and tasked-evoked fMRI scanner sessions as well as behavioural data. 
+
 ## Name Group: 
 
 ![alt text](https://github.com/Davi1990/NMA_project/blob/master/Logo.png)
