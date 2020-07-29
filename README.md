@@ -17,6 +17,11 @@
 
 ## Data   
 Fan Q, Witzel T, Nummenmaa A, Van Dijk KR, Van Horn JD, Drews MK, Somerville LH, Sheridan MA, Santillana RM, Snyder J, Hedden T, Shaw EE, Hollinshead MO, Renvall V, Zanzonico R, Keil B, Cauley S, Polimeni JR, Tisdall D, Buckner RL, Wedeen VJ, Wald LL, Toga AW, Rosen BR. MGH-USC Human Connectome Project datasets with ultra-high b-value diffusion MRI. Neuroimage 2016;124(Pt B):1108-1114.
+
+Finn ES, Shen X, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT. (2015) Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. Nature Neuroscience, 18: 1664–1671.
+
+Shen X, Finn ES, Scheinost D, Rosenberg MD, Chun MM, Papademetris X, Constable RT. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. Nature Protocols 12: 506-18.
+
   
 
 ## Notebooks
