@@ -10,7 +10,6 @@
 * [`numpy`](https://numpy.org/)
 * [`scipy`](https://scipy.org/scipylib/index.html)
 * [`scikit-learn`](https://scikit-learn.org/stable/)
-* [`vtk`](https://vtk.org/)
 * [`matplotlib`](https://matplotlib.org/)
 * [`nibabel`](https://nipy.org/nibabel/index.html)
 * [`nilearn`](https://nilearn.github.io/)
